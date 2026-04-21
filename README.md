@@ -1,7 +1,6 @@
 # Visualising Pianists' Touch (VPT): Transcribing Expressive Piano Performance from Audio to Piano Key Motion
-[![Paper](https://img.shields.io/badge/Paper-CHI%202026-green)](https://pseudo.link/paper)
-[![Pre-trained Models](https://img.shields.io/badge/Models-Zenodo-9cf?logo=zenodo)](https://pseudo.link/models)
-[![Code](https://img.shields.io/badge/Code-GitHub-black?logo=github)](https://pseudo.link/code)
+[![Paper](https://img.shields.io/badge/Paper-CHI%202026-green)](https://dl.acm.org/doi/full/10.1145/3772318.3791621#fn3)
+[![Pre-trained Models](https://img.shields.io/badge/Models-Zenodo-9cf?logo=zenodo)](https://zenodo.org/records/19682859) 
 [![Project Page](https://img.shields.io/badge/Demo-Project%20Page-blueviolet)](https://github.com/tangjjbetsy/VPT)
 [![Colab Demo](https://img.shields.io/badge/Colab-Demo%20Notebook-orange?logo=googlecolab)](https://colab.research.google.com/drive/1tYuwfdin8RwlGGs7UAH1RkaeAFaHtak2?usp=share_link)
 [![License](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey)](https://pseudo.link/license)
